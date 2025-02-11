@@ -15,13 +15,66 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 👻 About Me
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! My name is **Jindong Li**, and I am a third-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**. I am currently working under the supervision of **Professor Yi Zeng**.
+My research focuses on **hardware accelerators** for deep learning models. Specifically, I work on:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- **Convolutional Neural Networks (CNNs)**
+- **Spiking Neural Networks (SNNs)**
+- **Large Language Models (LLMs)** 🚀🚀🚀
+
+I am passionate about developing efficient hardware solutions that enhance the performance and scalability of deep learning algorithms.
+
+Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 
+# 📝 Publications 
+
+### Published Papers
+
+- `DATE 2025` ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. 🚀🚀🚀
+
+- `FPL 2024` ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) 💻[[Code]](https://github.com/adamgallas/SpinalDLA)
+
+- `TCAD` ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly v2: Advancing hardware support for high-performance spiking neural network with a spatiotemporal fpga accelerator." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10478105) 💻[[Code]](https://github.com/adamgallas/FireFly-v2)
+
+- `TVLSI` ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly: A high-throughput hardware accelerator for spiking neural networks with efficient dsp and memory optimization." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 31, no. 8 (2023): 1178-1191. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10143752) 💻[[Code]](https://github.com/adamgallas/FireFly-v1)
+
+- `TCAS-I` Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration With Reconfigurable Spatial Architecture." IEEE Transactions on Circuits and Systems I: Regular Papers (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10754657)
+
+- `CVPR 2025` Shen, Guobin, Dongcheng Zhao, Tenglong Li, ***Jindong Li***, and Yi Zeng. "Are Conventional SNNs Really Efficient? A Perspective from Network Quantization." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 27538-27547. 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10656053)
+
+- `ICTA 2022` Wu, Hailong, ***Jindong Li***, and Xiang Chen. "Implementation of CNN Heterogeneous Scheme Based on Domestic FPGA with RISC-V Soft Core CPU." In 2022 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), pp. 158-159. IEEE, 2022. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/9963056)
+
+- `ICTA 2021` Chen, Xiang, ***Jindong Li***, and Yong Zhao. "Hardware Resource and Computational Density Efficient CNN Accelerator Design Based on FPGA." In 2021 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), pp. 204-205. IEEE, 2021. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/9661886) 💻[[Code]](https://github.com/adamgallas/fpga_accelerator_yolov3tiny)
+
+
+### Preprints
+
+- Shen, Guobin, ***Jindong Li***, Tenglong Li, Dongcheng Zhao, and Yi Zeng. "SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." arXiv preprint arXiv:2501.14484 (2025). 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
+
+- Shen, Guobin, Dongcheng Zhao, Yiting Dong, Yang Li, ***Jindong Li***, Kang Sun, and Yi Zeng. "Astrocyte-enabled advancements in spiking neural networks for large language modeling." arXiv preprint arXiv:2312.07625 (2023). 🔗[[Arxiv]](https://arxiv.org/abs/2312.07625)
+
+
+# 🎓 Educations 
+ 
+- *2022.08 - 2027.06 (expected)*, ***Ph.D.***, [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), Beijing, China. 
+- *2018.08 - 2022.06*, ***B.S.***, School of Electronics and Information Technology, [Sun Yat-sen University](https://www.sysu.edu.cn/), Guangzhou, China. 
+
+# 💻 Open Source Project
+
+- Accelerating YOLOv3tiny on embedded FPGA [![](https://img.shields.io/github/stars/adamgallas/fpga_accelerator_yolov3tiny)](https://github.com/adamgallas/fpga_accelerator_yolov3tiny)
+
+
+# 🏅 Honors and Awards
+- *2024.11* National Scholarship (Graduate Student)
+- *2022.06* Outstanding Graduate, Sun Yat-sen University (Bachelor’s Degree)
+- *2021.08* National First Prize, China College IC Competition
+
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,4 +108,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
