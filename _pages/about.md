@@ -35,6 +35,8 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 ### Published Papers
 
+- ***Li, Jindong***, Tenglong Li, Guobin Shen, Ruiqi Chen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA." ICCAD 2025 🚀🚀🚀  `CCF-B`
+
 - ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. 🚀🚀🚀 🔗[[Arxiv]](https://arxiv.org/abs/2502.10659) `CCF-B`
 
 - ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) 🔗[[Arxiv]](https://arxiv.org/abs/2409.03508) 💻[[Code]](https://github.com/adamgallas/SpinalDLA) `CCF-C` 
@@ -53,6 +55,8 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 
 ### Preprints
+
+- Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture" arXiv preprint arXiv:2505.12771 (2025). 🔗[[Arxiv]](https://arxiv.org/abs/2505.12771)
 
 - Shen, Guobin, ***Jindong Li***, Tenglong Li, Dongcheng Zhao, and Yi Zeng. "SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." arXiv preprint arXiv:2501.14484 (2025). 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
 
