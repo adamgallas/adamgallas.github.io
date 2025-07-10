@@ -33,21 +33,24 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 # 📝 Publications 
 
-### Published Papers
+### Published Papers as First Author
 
-- ***Li, Jindong***, Tenglong Li, Guobin Shen, Ruiqi Chen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA." ICCAD 2025 🚀🚀🚀  `CCF-B`
+- ***Li, Jindong***, Tenglong Li, Ruiqi Chen, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA." Accepted at ICCAD 2025 🚀🚀🚀  🔗[[Arxiv]](https://arxiv.org/abs/2507.03308)
 
-- ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. 🚀🚀🚀 🔗[[Arxiv]](https://arxiv.org/abs/2502.10659) `CCF-B`
 
-- ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) 🔗[[Arxiv]](https://arxiv.org/abs/2409.03508) 💻[[Code]](https://github.com/adamgallas/SpinalDLA) `CCF-C` 
+- ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. 🚀🚀🚀 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10993087/)🔗[[Arxiv]](https://arxiv.org/abs/2502.10659)
 
-- ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly v2: Advancing hardware support for high-performance spiking neural network with a spatiotemporal fpga accelerator." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10478105) 🔗[[Arxiv]](https://arxiv.org/abs/2309.16158) 💻[[Code]](https://github.com/adamgallas/FireFly-v2) `CCF-A` 
+- ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) 🔗[[Arxiv]](https://arxiv.org/abs/2409.03508) 💻[[Code]](https://github.com/adamgallas/SpinalDLA)
 
-- ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly: A high-throughput hardware accelerator for spiking neural networks with efficient dsp and memory optimization." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 31, no. 8 (2023): 1178-1191. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10143752) 🔗[[Arxiv]](https://arxiv.org/abs/2301.01905) 💻[[Code]](https://github.com/adamgallas/FireFly-v1) `CCF-B`
+- ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly v2: Advancing hardware support for high-performance spiking neural network with a spatiotemporal fpga accelerator." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10478105) 🔗[[Arxiv]](https://arxiv.org/abs/2309.16158) 💻[[Code]](https://github.com/adamgallas/FireFly-v2)
 
-- Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration With Reconfigurable Spatial Architecture." IEEE Transactions on Circuits and Systems I: Regular Papers (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10754657) 🔗[[Arxiv]](https://arxiv.org/abs/2408.15578) `CCF-C, CAS-Q1`
+- ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly: A high-throughput hardware accelerator for spiking neural networks with efficient dsp and memory optimization." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 31, no. 8 (2023): 1178-1191. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10143752) 🔗[[Arxiv]](https://arxiv.org/abs/2301.01905) 💻[[Code]](https://github.com/adamgallas/FireFly-v1)
 
-- Shen, Guobin, Dongcheng Zhao, Tenglong Li, ***Jindong Li***, and Yi Zeng. "Are Conventional SNNs Really Efficient? A Perspective from Network Quantization." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 27538-27547. 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10656053) `CCF-A`
+### Published Papers as Co-Author
+
+- Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration With Reconfigurable Spatial Architecture." IEEE Transactions on Circuits and Systems I: Regular Papers (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10754657) 🔗[[Arxiv]](https://arxiv.org/abs/2408.15578)
+
+- Shen, Guobin, Dongcheng Zhao, Tenglong Li, ***Jindong Li***, and Yi Zeng. "Are Conventional SNNs Really Efficient? A Perspective from Network Quantization." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 27538-27547. 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10656053)
 
 - Wu, Hailong, ***Jindong Li***, and Xiang Chen. "Implementation of CNN Heterogeneous Scheme Based on Domestic FPGA with RISC-V Soft Core CPU." In 2022 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), pp. 158-159. IEEE, 2022. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/9963056)
 
