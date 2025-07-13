@@ -22,9 +22,9 @@ redirect_from:
 Hello! My name is **Jindong Li**, and I am a third-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**. I am currently working under the supervision of **Professor Yi Zeng**.
 My research focuses on **hardware accelerators** for deep learning models. Specifically, I work on:
 
+- **Large Language Models (LLMs)** 🚀🚀🚀
 - **Convolutional Neural Networks (CNNs)**
 - **Spiking Neural Networks (SNNs)**
-- **Large Language Models (LLMs)** 🚀🚀🚀
 
 I am passionate about developing efficient hardware solutions that enhance the performance and scalability of deep learning algorithms.
 
@@ -33,10 +33,9 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 # 📝 Publications 
 
-### Published Papers as First Author
+### First-Author Publications
 
 - ***Li, Jindong***, Tenglong Li, Ruiqi Chen, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA." Accepted at ICCAD 2025 🚀🚀🚀  🔗[[Arxiv]](https://arxiv.org/abs/2507.03308)
-
 
 - ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA." In 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. 🚀🚀🚀 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10993087/)🔗[[Arxiv]](https://arxiv.org/abs/2502.10659)
 
@@ -46,9 +45,11 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 
 - ***Li, Jindong***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Firefly: A high-throughput hardware accelerator for spiking neural networks with efficient dsp and memory optimization." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 31, no. 8 (2023): 1178-1191. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10143752) 🔗[[Arxiv]](https://arxiv.org/abs/2301.01905) 💻[[Code]](https://github.com/adamgallas/FireFly-v1)
 
-### Published Papers as Co-Author
+### Co-Authored Publications
 
 - Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration With Reconfigurable Spatial Architecture." IEEE Transactions on Circuits and Systems I: Regular Papers (2024). 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10754657) 🔗[[Arxiv]](https://arxiv.org/abs/2408.15578)
+
+- Shen, Guobin, ***Jindong Li***, Tenglong Li, Dongcheng Zhao, and Yi Zeng. "SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." Accepted at ICCV 2025. 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
 
 - Shen, Guobin, Dongcheng Zhao, Tenglong Li, ***Jindong Li***, and Yi Zeng. "Are Conventional SNNs Really Efficient? A Perspective from Network Quantization." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 27538-27547. 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10656053)
 
@@ -60,8 +61,6 @@ Feel free to reach out if you'd like to discuss research topics or collaborate!
 ### Preprints
 
 - Li, Tenglong, ***Jindong Li***, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture" arXiv preprint arXiv:2505.12771 (2025). 🔗[[Arxiv]](https://arxiv.org/abs/2505.12771)
-
-- Shen, Guobin, ***Jindong Li***, Tenglong Li, Dongcheng Zhao, and Yi Zeng. "SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility." arXiv preprint arXiv:2501.14484 (2025). 🔗[[Arxiv]](https://arxiv.org/abs/2501.14484)
 
 - Shen, Guobin, Dongcheng Zhao, Yiting Dong, Yang Li, ***Jindong Li***, Kang Sun, and Yi Zeng. "Astrocyte-enabled advancements in spiking neural networks for large language modeling." arXiv preprint arXiv:2312.07625 (2023). 🔗[[Arxiv]](https://arxiv.org/abs/2312.07625)
 
